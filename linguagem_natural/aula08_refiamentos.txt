@@ -1,17 +1,17 @@
 DIFERENÇA
 1. Ler [a];   # read [a]   scan [a]   input [a]                
-2. Ler [b];
+2. Ler [b];   # read [b]   scan [b]   input [b]
 3. [difereça] = [a] - [b];
 4. Mostre [soma].  # print [difereça]    show [difereça]     output [difereça]
 
 MULTIPLICAÇÃO
 1. Ler [a];   # read [a]   scan [a]   input [a]                
-2. Ler [b];
+2. Ler [b];   # read [b]   scan [b]   input [b]
 3. [produto] = [a] x [b];
 4. Mostre [soma].  # print [produto]    show [produto]     output [produto]
 
 DIVISÃO
 1. Ler [a];   # read [a]   scan [a]   input [a]                
-2. Ler [b];
+2. Ler [b];   # read [b]   scan [b]   input [b]
 3. [quociente] = [a] : [b];
 4. Mostre [soma].  # print [quociente]    show [quociente]     output [quociente]
